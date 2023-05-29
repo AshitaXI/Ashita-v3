@@ -8,8 +8,8 @@
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL_v3-blue?style=for-the-badge" alt="license" /></a>
     <br/>
     <a href="https://paypal.me/atom0s"><img src="https://img.shields.io/badge/donate-PayPal-blue?style=for-the-badge" alt="paypal" /></a>
-    <a href="https://patreon.com/atom0s"><img src="https://img.shields.io/badge/sponsor-Patreon-red?style=for-the-badge" alt="paypal" /></a>
-    <a href="https://github.com/sponsors/atom0s/"><img src="https://img.shields.io/badge/sponsor-GitHub-purple?style=for-the-badge" alt="paypal" /></a>
+    <a href="https://patreon.com/atom0s"><img src="https://img.shields.io/badge/sponsor-Patreon-red?style=for-the-badge" alt="patreon" /></a>
+    <a href="https://github.com/sponsors/atom0s/"><img src="https://img.shields.io/badge/sponsor-GitHub-purple?style=for-the-badge" alt="github" /></a>
 </div>
 
 # Ashita
